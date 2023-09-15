@@ -1,5 +1,6 @@
 # Damn Vulnerable C Program             
 [![Twitter Follow](https://img.shields.io/twitter/follow/hardik05?style=social)](https://twitter.com/hardik05)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvishal-thenge%2FDamn_Vulnerable_C_Program.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvishal-thenge%2FDamn_Vulnerable_C_Program?ref=badge_shield)
 
 **My YouTube Channel:** https://www.youtube.com/user/MrHardik05/featured?view_as=subscriber
 
@@ -165,3 +166,7 @@ Suggestions and comments are always welcomed. if you find any issue or have a fi
 [![Star History Chart](https://api.star-history.com/svg?repos=hardik05/Damn_Vulnerable_C_Program&type=Date)](https://star-history.com/#hardik05/Damn_Vulnerable_C_Program&Date)
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvishal-thenge%2FDamn_Vulnerable_C_Program.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvishal-thenge%2FDamn_Vulnerable_C_Program?ref=badge_large)
